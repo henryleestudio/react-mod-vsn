@@ -1,14 +1,15 @@
 import React from 'react'
 import styled from 'styled-components'
+import { InfoDataFour, InfoDataThree, InfoDataTwo } from '../data/InfoData'
 import { Button } from './Button'
 
 const Section = styled.section`
   width: 100%;
   height: 100%;
-  padding: 4rem 0rem;
+  padding: 0rem 0rem;
 `
 const Container = styled.div`
-  padding: 3rem calc((100vw - 1300px) / 2);
+  padding: 0rem calc((100vw - 1300px) / 2);
   display: grid; 
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 800px;
@@ -23,7 +24,7 @@ const ColumnLeft = styled.div`
   justify-content: center;
   align-items: flex-start;
   line-height: 1.4;
-  padding: 1rem 2rem;
+  padding: 0rem 2rem;
   order: ${({ reverse }) => reverse ? '2' : '1'};
 
   h1 {
@@ -72,6 +73,46 @@ export const InfoSection = ({ heading, paragraphOne, paragraphTwo, buttonLabel, 
         </ColumnLeft>
         <ColumnRight reverse={reverse}>
           <img src={image} alt="home" />
+        </ColumnRight>
+      </Container>
+
+      <Container>
+        <ColumnLeft>
+          <h1>{InfoDataTwo.heading}</h1>
+          <p>{InfoDataTwo.paragraphOne}</p>
+          <p>{InfoDataTwo.paragraphTwo}</p>
+          <Button to='/homes' primary={true}>
+            {buttonLabel}
+          </Button>
+        </ColumnLeft>
+        <ColumnRight reverse={reverse}>
+          <img src={InfoDataTwo.image} alt="home" />
+        </ColumnRight>
+      </Container>
+
+      <Container>
+        <ColumnLeft>
+          <h1>{InfoDataThree.heading}</h1>
+          <p>{InfoDataThree.paragraphOne}</p>
+          <p>{InfoDataThree.paragraphTwo}</p>
+          <Button to='/homes' primary={true}>
+            {buttonLabel}
+          </Button>
+        </ColumnLeft>
+        <ColumnRight reverse={reverse}>
+          <img src={InfoDataThree.image} alt="home" />
+        </ColumnRight>
+        
+        <ColumnLeft>
+          <h1>{InfoDataFour.heading}</h1>
+          <p>{InfoDataFour.paragraphOne}</p>
+          <p>{InfoDataFour.paragraphTwo}</p>
+          <Button to='/homes' primary={true}>
+            {buttonLabel}
+          </Button>
+        </ColumnLeft>
+        <ColumnRight reverse={reverse}>
+          <img src={InfoDataFour.image} alt="home" />
         </ColumnRight>
       </Container>
     </Section>

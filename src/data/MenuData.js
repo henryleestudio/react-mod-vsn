@@ -1,12 +1,12 @@
 import React from 'react'
 
 export const MenuData = [
-  { title: 'About', 
-    link: "/about"},
+  { title: 'Live', 
+    link: "/live"},
 
-  { title: 'Homes', 
-    link: "/homes"},
+  { title: 'Life', 
+    link: "/life"},
 
-  { title: 'Rentals', 
-    link: "/rentals"}
+  { title: 'Luxurious', 
+    link: "/luxurious"}
 ]

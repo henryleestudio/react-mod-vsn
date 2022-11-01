@@ -5,36 +5,36 @@ import imageFour from '../images/img-4.jpg'
 
 export const SliderData = [
   {
-    title: 'Luxuary Villa in Bali, Indonesia',
-    price: '$4,280,000',
-    path: '/homes',
+    title: 'Freedom & relief',
+    price: 'Let your mind be set free',
+    path: '/live',
     label: 'View Home',
     image: imageOne,
     alt: 'House'
   },
 
   {
-    title: 'Luxuary Villa in Bali, Indonesia',
-    price: '$4,280,000',
-    path: '/homes',
+    title: 'The Golden Rule',
+    price: 'Giving is the secret to abundance',
+    path: '/luxuary',
     label: 'View Home',
     image: imageTwo,
     alt: 'House'
   },
 
   {
-    title: 'Luxuary Villa in Bali, Indonesia',
-    price: '$4,280,000',
-    path: '/homes',
+    title: 'Luxury state of mind',
+    price: '– LWren Scott',
+    path: '/life',
     label: 'View Home',
     image: imageThree,
     alt: 'House'
   },
 
   {
-    title: 'Luxuary Villa in Bali, Indonesia',
-    price: '$4,280,000',
-    path: '/homes',
+    title: "Feel like a rock star",
+    price: 'Look cool dress nice',
+    path: '/luxuary',
     label: 'View Home',
     image: imageFour,
     alt: 'House'

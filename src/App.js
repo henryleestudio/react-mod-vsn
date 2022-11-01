@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { Dropdown } from './components/Dropdown';
+import { Footer } from './components/Footer';
 import { Hero } from './components/Hero';
 import { InfoSection } from './components/InfoSection';
 import { Navbar } from './components/Navbar';
@@ -21,6 +22,7 @@ function App() {
       <Dropdown isOpen={isOpen} toggle={toggle} />
       <Hero slides={SliderData}/>
       <InfoSection {...InfoData}/>
+      <Footer /> 
     </>
   );
 }
