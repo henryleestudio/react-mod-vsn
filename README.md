@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# React Modern Vision
+React Application - Front end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Artwear Catalog is an art / fashion exhibition for one of a kind, hand painted, art to wear pieces. It showcases the co-creative talents of models, photographers, designers, and artists in the creative-professional community in Philadelphia, and has a custom art to wear interface that enables the user to create their own art to wear.
 
-## Available Scripts
+JavaScript | React Router Dom | Styled Components | CSS3 | Graphic Design | Adobe Creative Cloud | Photoshop CC
 
-In the project directory, you can run:
+Link to project: <a target="_blank" href="https://react-modern-vision.netlify.app/">live demo</a>
 
-### `npm start`
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 00 PM" src="https://user-images.githubusercontent.com/101936420/199314755-655a7b15-87ce-422c-9587-369c650d6375.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 13 PM" src="https://user-images.githubusercontent.com/101936420/199314795-44abb43f-af06-4c26-9770-34732ab689c4.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 40 30 PM" src="https://user-images.githubusercontent.com/101936420/199314812-306cc8a7-c7d0-47c2-bc09-7e163ae833d1.png">
 
-### `npm test`
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 09 PM" src="https://user-images.githubusercontent.com/101936420/199314833-a9abe1c5-2a31-4cc2-9d39-9f3ad0acddc7.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 22 PM" src="https://user-images.githubusercontent.com/101936420/199314844-0430a7bf-49bb-4bb2-b4ab-b8a551b0462c.png">
 
-### `npm run build`
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 42 21 PM" src="https://user-images.githubusercontent.com/101936420/199314867-2a667b6e-6823-4c8f-b03c-61dea6e4a73b.png">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="1440" alt="Screen Shot 2022-11-01 at 2 41 44 PM" src="https://user-images.githubusercontent.com/101936420/199314862-3a68758a-f0ea-4a8f-9e65-82497d30e41c.png">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Design
+This design concept is inspired by the high fashion catalog aesthetic, so I decided to design a clean and spacious style layout with dynamic typographic, in relation to the catalog style photography to embody a modern art gallery look and feel. All art pieces are made by yours truly or in collaboration with another artist. I was intentional about not using a template for this project. Graphic design work is done by scratch.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="left">
+  <a href="https://henrylee.studio/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/101936420/172000054-7df36c23-7223-488f-8ecd-9f6bb4a79ff4.png" width="10%"/>
+  </a>
+&nbsp
+  <a href="https://www.linkedin.com/in/henry-lee-studio/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/101936420/172000064-68bffe39-7735-44bf-8b9e-5228913c5eed.png" width="10%"/>
+  </a>
+&nbsp
+  <a href="https://twitter.com/henryleestudio" target="_blank">
+    <img src="https://user-images.githubusercontent.com/101936420/172000066-76823694-4946-4c18-9b6c-866c9428a49c.png" width="10%"/>
+  </a>
+&nbsp
+  <a href="https://angel.co/u/henry-lee-studio" target="_blank">
+      <img src="https://user-images.githubusercontent.com/101936420/172000074-c75d3108-337c-4756-8a45-f05912613242.png" width="10%"/>
+  </a>
+&nbsp
+  <a href="https://henrylee.studio/images/henry-lee-resume-9.13.22.pdf" target="_blank">
+      <img src="https://user-images.githubusercontent.com/101936420/172000081-20e4d8e7-7785-4e19-94a9-4be5cf40506c.png" width="10%"/>
+  </a>
+  </p>
 
-### `npm run eject`
+<section margin-left:50px;>
+Interested in:
+Contacting me directly? <br>
+Booking a session for creative direction? <br>
+Inquire about software engineer opportunities? <br>
+<br>
+Visit <a target="_blank" href="https://henrylee.studio/">henrylee.studio</a>
+</section>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
