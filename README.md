@@ -1,9 +1,9 @@
 # React Modern Vision
 React Application - Front end
 
-The Artwear Catalog is an art / fashion exhibition for one of a kind, hand painted, art to wear pieces. It showcases the co-creative talents of models, photographers, designers, and artists in the creative-professional community in Philadelphia, and has a custom art to wear interface that enables the user to create their own art to wear.
+My inspiration for this project was to have fun, while practicing a different way to building out a React.js application. Each piece of content represents a bit of who I am, or what I envision for myself and my family. I used the "Styled Component" dependency for all the styling, and challenged myself to utilize a different way of routing to pages, instead of using the “React Router Dom” dependency. This project almost acts as a vision board, and it gave me an opportunity to focus on what I'd like to see manifest into my life experience. 
 
-JavaScript | React Router Dom | Styled Components | CSS3 | Graphic Design | Adobe Creative Cloud | Photoshop CC
+React.js | JavaScript | CSS3 | Styled Components | UI Design | Photoshop CC
 
 Link to project: <a target="_blank" href="https://react-modern-vision.netlify.app/">live demo</a>
 
@@ -22,7 +22,7 @@ Link to project: <a target="_blank" href="https://react-modern-vision.netlify.ap
 <img width="1440" alt="Screen Shot 2022-11-01 at 2 41 44 PM" src="https://user-images.githubusercontent.com/101936420/199314862-3a68758a-f0ea-4a8f-9e65-82497d30e41c.png">
 
 ## Design
-This design concept is inspired by the high fashion catalog aesthetic, so I decided to design a clean and spacious style layout with dynamic typographic, in relation to the catalog style photography to embody a modern art gallery look and feel. All art pieces are made by yours truly or in collaboration with another artist. I was intentional about not using a template for this project. Graphic design work is done by scratch.
+An inspiring yet sleek look and feel. My intention was to synthesize content that gives off a life giving, and personable mood.
 
 <p align="left">
   <a href="https://henrylee.studio/" target="_blank">
